@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bee52b55-847e-4cf6-8b1d-97e39d54d790" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/next-portfolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/about.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/hireme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/javascript-logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/_document.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Layout.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +48,16 @@
       <workItem from="1624642063196" duration="502000" />
       <workItem from="1624642582877" duration="459000" />
       <workItem from="1624696322294" duration="14706000" />
-      <workItem from="1624727209381" duration="278000" />
+      <workItem from="1624727209381" duration="2755000" />
     </task>
+    <task id="LOCAL-00001" summary="Next Router, NProgress for Route Loading State">
+      <created>1624727506124</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624727506124</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
